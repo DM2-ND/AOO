@@ -3,7 +3,7 @@ Actionable Objective Optimization for Suspicious Behavior Detection on Large Bip
 
 Accepted to IEEE BigData 2018
 
-Authors: Tong Zhao, Matthew Malir, Meng Jiang
+Authors: Tong Zhao (tzhao2@nd.edu), Matthew Malir, Meng Jiang
 
 Documentation: Coming soon...
 
