@@ -2,7 +2,9 @@
 
 This repository contains the code package for the BigData'18 paper:
 
-**[Actionable Objective Optimization for Suspicious Behavior Detection on Large Bipartite Graphs](https://tzhao.io/files/papers/BigData18-aoo.pdf).** [Tong Zhao](https://tzhao.io/) (ND), Matthew Malir (ND), [Meng Jiang](http://meng-jiang.com/) (ND).
+**[Actionable Objective Optimization for Suspicious Behavior Detection on Large Bipartite Graphs](https://tzhao.io/files/papers/BigData18-aoo.pdf).** 
+
+[Tong Zhao](https://tzhao.io/) (ND), Matthew Malir (ND), [Meng Jiang](http://meng-jiang.com/) (ND).
 
 ## Citation
 If you find this repository useful in your research, please cite our paper:
