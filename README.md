@@ -6,6 +6,13 @@ This repository contains the code package for the BigData'18 paper:
 
 [Tong Zhao](https://tzhao.io/) (ND), Matthew Malir (ND), [Meng Jiang](http://meng-jiang.com/) (ND).
 
+## Usage
+To run the method:
+```
+python aoo_api.py
+```
+a list of configurable arguments can be found [here](https://github.com/DM2-ND/aoo/blob/master/aoo_api.py#L555).
+
 ## Citation
 If you find this repository useful in your research, please cite our paper:
 
